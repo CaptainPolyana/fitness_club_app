@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "336194002735",
+    "project_id": "fitnessclubbase",
+    "storage_bucket": "fitnessclubbase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336194002735:android:cad05186c011c51cac0bda",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClSiTpoGnHMTMgpKQ78oC4cXWHYP4Tx60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
